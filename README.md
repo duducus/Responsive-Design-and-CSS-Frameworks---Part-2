@@ -1,73 +1,39 @@
-# Project Name
+# 7th Microverse Project: Using Bootstrap
 
-> One paragraph statement about the project.
+> This project requests students to build a replica of the news site Newsweek.com using the Bootstrap framework.
+
+Original site looks like this:
+[Live Demo Link](https://newsweek.com)
+
+
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project requests students to build a replica of the news site Newsweek.com using the Bootstrap framework..
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html,
+- CSS,
+- Bootstrap
 
 ## Live Demo
 
+You can see the project in action:
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+## Author
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+👤 **Jorge Cerón**
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+- Github: [@duducus](https://github.com/githubhandle)
+- Twitter: [@jorgeceron1](https://twitter.com/twitterhandle)
+- Linkedin: [Jorge Cerón Gil](https://linkedin.com/linkedinhandle)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
