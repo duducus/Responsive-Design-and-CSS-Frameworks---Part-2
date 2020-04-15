@@ -147,9 +147,35 @@ header {
 
 .the_debate_author {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
 .the_debate_author img{
   width: 50px;
+}
+
+#in_the_magazine {
+  display: flex;
+  justify-content: center;
+}
+
+#in_the_magazine img {
+  width: 35px;
+}
+
+.article_second_structure{
+  height: 1000px;
+}
+
+.in_the_magazine_containers {
+  display: flex;
+  flex-direction: column;
+}
+
+.in_the_magazine_container {
+  width: 25%;
+}
+
+.in_the_magazine_container img {
+  width: 293px;
 }
