@@ -48,3 +48,25 @@ header {
 #banner_links_boxes {
   align-self: center;
 }
+
+#main_nav {
+
+}
+
+#navbar_markup {
+
+}
+
+#navigator {
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 0;
+}
+
+#navigator a {
+  white-space: nowrap;
+  font-size: 16px;
+  border-right: 2px ridge rgba(255, 255, 255, 0.966);
+  margin: 10px 5px 10px 5px;
+  line-height: 5px;
+}
