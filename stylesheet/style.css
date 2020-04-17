@@ -89,6 +89,13 @@ footer {
   top: 25px;
 }
 
+.section-tag {
+  font: bold 16px/16px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: grey;
+}
+
 #top_story {
   background-color: yellow;
 }
