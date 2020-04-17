@@ -186,7 +186,7 @@ footer {
 }
 
 .article_fourth_structure {
-  height: 2800px;
+  height: 3200px;
 }
 
 .in_the_magazine_containers {
@@ -301,4 +301,23 @@ footer > .row {
 
 .footer-general-links {
   flex-wrap: wrap;
+}
+
+.editions-links > a:first-child {
+  font-weight: bold;
+  border-right: none;
+}
+
+.editions-links > a:last-child {
+  border-right: none;
+}
+
+@media (max-width: 767px) {
+  .sign-up-ad {
+    overflow: visible;
+  }
+
+  .subscribe-ad-summary {
+    align-items: center;
+  }
 }
