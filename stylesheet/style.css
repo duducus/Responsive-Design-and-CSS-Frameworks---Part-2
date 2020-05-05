@@ -15,10 +15,11 @@ footer {
 }
 
 #red_banner {
-  background-color: #ef4e17;
+  background-color: red;
   height: 135px;
   display: flex;
   align-items: flex-end;
+  padding-bottom: 30px;
 }
 
 #main_logo {
@@ -26,9 +27,11 @@ footer {
   text-decoration: none;
 }
 
-#main_logo svg {
+#Layer_1 {
   fill: white;
-  height: 60px;
+  height: 80px;
+  padding-bottom: 20px;
+
 }
 
 .no-text-decoration {
@@ -88,6 +91,7 @@ footer {
   height: 30px;
   display: flex;
   align-items: center;
+  padding-bottom: 50px;
 }
 
 #banner_links_boxes {
@@ -96,13 +100,12 @@ footer {
 
 #main_nav {
   position: relative;
-  top: 1px;
+
 }
 
 #navigator {
-  flex-direction: row;
-  justify-content: space-between;
   padding-left: 0;
+  position: relative;
 }
 
 #navigator a {
@@ -548,8 +551,12 @@ footer > .row {
   }
 }
 
-@media (max-width:980) {
+@media (max-width:980px) {
   #navigator a {
     font-size: 14px;
   }
+}
+
+footer {
+  display: flex;
 }
