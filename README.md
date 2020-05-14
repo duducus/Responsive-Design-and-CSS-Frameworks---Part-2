@@ -20,7 +20,7 @@ This project requests students to build a replica of the news site Newsweek.com 
 ## Live Demo
 
 You can see the project in action:
-[Live Demo Link](https://rawcdn.githack.com/duducus/Responsive-Design-and-CSS-Frameworks---Part-2/a8393f89b45735daf05ece185edbaafccfad49d9/index.html)
+[Live Demo Link](https://rawcdn.githack.com/duducus/Responsive-Design-and-CSS-Frameworks---Part-2/b22e032947ef2c10ee02c32aa10e3137a229abea/index.html)
 
 
 ## Author
