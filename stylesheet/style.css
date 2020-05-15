@@ -81,6 +81,7 @@ footer {
 	font-weight: 700;
 }
 
+
 .heroes_container p {
 	font-size: 15px;
 }
@@ -823,16 +824,20 @@ footer>.row {
 	}
 }
 
+..mobile-logo-container {
+
+}
+
 @media screen and max-width 379px {
 	.sign-in,
 	.subscribe-link {
 		font-size: .8rem;
 	}
 	.mobile-logo-container,
-	.mobile-logo-ontainer {
-		max-height: 100%;
-		object-fit: contain;
-		width: 32%;
+	.mobile-logo-container {
+		height: 10px;
+		width: auto;
+		overflow: hidden;
 	}
 }
 
@@ -840,10 +845,9 @@ footer>.row {
 	.country-weather {
 		display: none;
 	}
-	.mobile-logo-ontainer {
-		max-height: 100%;
-		object-fit: contain;
-		width: 20%;
+	.mobile-logo-container {
+		height: 10px;
+		width: auto;
 	}
 }
 
@@ -851,7 +855,7 @@ footer>.row {
 	.hide-on-mobile {
 		display: none;
 	}
-	.mobile-logo-ontainer {
+	.mobile-logo-container {
 		max-height: 100%;
 		object-fit: contain;
 		width: 25%;
